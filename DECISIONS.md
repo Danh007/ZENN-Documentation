@@ -30,3 +30,11 @@ Chose: Balancing act was chosen — this due to both curiocity to explore physic
 AI: Did not consult AI...  
 Who: Denis Beigel
 ```
+
+## 2026-11-19 — Additional service to be added to the game
+```
+Options: PointTracker / SoundService / SettingService
+Chose: SettingService - A simple toggel would be something relativly easy to implement in addition to the connection it already has to the save service which needs to exist for the setting's state to be remembered... 
+AI: An attempt was made but took longer then simply implementing...
+Who: Denis Beigel
+```
